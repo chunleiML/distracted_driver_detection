@@ -1,2 +1,2 @@
 # distracted_driver_detection
-深度学习项目
+Udacity 机器学习纳米学位毕业项目(还未完成)
